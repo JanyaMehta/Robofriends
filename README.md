@@ -13,7 +13,7 @@
 
 - The search and title components are thoughtfully designed to remain visible on the screen, ensuring a seamless user experience across various device sizes.
     
-    <img src="!https://user-images.githubusercontent.com/58518192/72223570-802eae00-359a-11ea-9cdf-e090287f89a5.png" />
+   ![home page](!https://user-images.githubusercontent.com/58518192/72223570-802eae00-359a-11ea-9cdf-e090287f89a5.png")
     
 
 **2. Dynamic Card Display:**
@@ -25,7 +25,7 @@
 - Users can easily search for their robot companions, enhancing the interactive experience and making it effortless to find specific robo friends.
 - 
     
-    <img src="!https://user-images.githubusercontent.com/58518192/72633599-01af8300-3983-11ea-9799-add6e36d1472.gif"/>
+    ![dynamic Search](!https://user-images.githubusercontent.com/58518192/72633599-01af8300-3983-11ea-9799-add6e36d1472.gif")
     
 
 **4. Fast Rendering:**
@@ -36,7 +36,7 @@
 
 - With a focus on efficiency, the design is kept lightweight, ensuring a quick and smooth user interaction while minimizing resource consumption.
     
-    <img src="!https://d33wubrfki0l68.cloudfront.net/1b5825f92fe2f552e0898b1d48b31cbfcf193bfd/f4cfa/img/codefolio/robofriends/robofriends-index-composite.jpg" />
+   ![responsive](!https://d33wubrfki0l68.cloudfront.net/1b5825f92fe2f552e0898b1d48b31cbfcf193bfd/f4cfa/img/codefolio/robofriends/robofriends-index-composite.jpg)
     
 
 ## Technology Used :
